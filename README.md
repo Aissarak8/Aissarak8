@@ -51,9 +51,9 @@ I'm a passionate **Front-End Developer** based in **Morocco 🇲🇦**, focused 
 
       <div align="center">
 
-      ![Aissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aissarak8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+      ![Aissa's GitHub Stats](https://github-readme-stats-livid-five-17.vercel.app/api?username=Aissarak8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aissarak8&layout=compact&theme=tokyonight&hide_border=true)
+      ![Top Languages](https://github-readme-stats-livid-five-17.vercel.app/api/top-langs/?username=Aissarak8&layout=compact&theme=tokyonight&hide_border=true)
 
       ![GitHub Streak](https://streak-stats.demolab.com?user=Aissarak8&theme=tokyonight&hide_border=true)
 
