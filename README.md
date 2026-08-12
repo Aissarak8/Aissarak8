@@ -67,7 +67,7 @@ I'm a passionate **Front-End Developer** based in **Morocco 🇲🇦**, focused 
       |---------|-------------|------|
       | [**portfolio**](https://github.com/Aissarak8/portfolio) | Apple-inspired developer portfolio with GitHub API integration, dark/light mode, and smooth animations | React · Vite · Tailwind CSS · Framer Motion |
       | [**project-web-S2**](https://github.com/Aissarak8/project-web-S2) | Web project built with HTML & CSS | HTML · CSS |
-      | [**StudyOS**] (https://github.com/Aissarak8/StudyOS)  |AI-powered educational platform for Moroccan university students  |  TypeScript . PLpgSQL . CSS . JavaScript |
+      | [**StudyOS**](https://github.com/Aissarak8/StudyOS)  |AI-powered educational platform for Moroccan university students  |  TypeScript . PLpgSQL . CSS . JavaScript |
 
 
       ---
